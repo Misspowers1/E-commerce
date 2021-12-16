@@ -33,6 +33,7 @@ const SearchContainer = styled.div`
 
 const Input = styled.input`
   border: none;
+  background-color: #fbf0f4;
 `;
 
 const Center = styled.div`
